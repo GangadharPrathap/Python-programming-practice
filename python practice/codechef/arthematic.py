@@ -1,0 +1,6 @@
+n,m=map(int,input().split())
+print(f"Sum: {n+m}")
+print(f"Difference: {n-m}")
+print(f"Product: {n*m}")
+print(f"Division: {n//m}")
+print(f"Remainder: {n%m}")
