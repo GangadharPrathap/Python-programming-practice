@@ -1,7 +1,7 @@
 uber hack tag
 application window:  jan-Feb
 stipend: 1.2 l pm
-eligibility: Engineering students,good coding skills
+eligibility: Engineering students,good coding skills   
 
 
 
