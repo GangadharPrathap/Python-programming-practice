@@ -7,4 +7,4 @@ CREATE TABLE students (
 
 INSERT INTO students VALUES (1,'Satya',90);
 
-SELECT * FROM students;
+SELECT * FROM students;       
